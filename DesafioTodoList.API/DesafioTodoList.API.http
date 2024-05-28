@@ -1,0 +1,6 @@
+@DesafioTodoList.API_HostAddress = http://localhost:5170
+
+GET {{DesafioTodoList.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
